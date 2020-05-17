@@ -1,11 +1,11 @@
 # Site settings
-author: imperative-tuple-4883
-title: 
+author: Andrew Witmer
+title: Why I Decided to Study Software Engineering
 header-img: img/home-bg.png
 email: andrew.witmer445@gmail.com
-copyright_name: imperative-tuple-4883
+copyright_name: Andrew Witmer
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Lessons of the Past & Thoughts of the Future
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  arwitmer
